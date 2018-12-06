@@ -1,0 +1,12 @@
+{
+    "name": "curige/tumblr-data-archiver",
+    "authors": [
+        {
+            "name": "curige",
+            "email": "curige@gmail.com"
+        }
+    ],
+    "require": {
+        "tumblr/tumblr": "^0.4.0"
+    }
+}
